@@ -1,0 +1,6 @@
+BOM for ETC project is shared via Google Drive for ease of use in Google spreadsheets. 
+
+# Please follow this link: 
+https://docs.google.com/spreadsheets/d/1jGTcMW5XZCuBMflX-EJ1iahN-_moxMeDLij978g0fmc/edit?usp=sharing 
+
+The sheet inlused details regarding all components and their replacement as well as a tab with format dedicated for automatic assembly in JLCPCB.

@@ -8,5 +8,5 @@ The board shape is designed to fit popular aluminium casing to be found in tme.e
 You can also check a video to learn more about this project: https://www.youtube.com/watch?v=MTnsbOgZkUA 
 
 # Dislaimer: 
-This device is dedicated for stationary engines and vehicles driving on privet closed
+This device is dedicated for stationary engines and vehicles driving on private closed
 properties. It should not be used on public roads!

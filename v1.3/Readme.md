@@ -1,4 +1,4 @@
-#ETC v1.3 is the main version at the mamoment. 
+# ETC v1.3 is the main version at the mamoment. 
 
 Last update 2023.03.26:
 - changed the frequency of TPS input filter from 150Hz to 720Hz to avoid problem of tgrottle "flapping" due to too slow response presumably. 

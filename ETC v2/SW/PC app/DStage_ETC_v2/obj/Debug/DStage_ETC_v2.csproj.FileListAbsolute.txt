@@ -1,0 +1,10 @@
+I:\VS\DStage_ETC_v2\DStage_ETC_v2\DStage_ETC_v2\bin\Debug\DStage_ETC_v2.exe.config
+I:\VS\DStage_ETC_v2\DStage_ETC_v2\DStage_ETC_v2\bin\Debug\DStage_ETC_v2.exe
+I:\VS\DStage_ETC_v2\DStage_ETC_v2\DStage_ETC_v2\bin\Debug\DStage_ETC_v2.pdb
+I:\VS\DStage_ETC_v2\DStage_ETC_v2\DStage_ETC_v2\obj\Debug\DStage_ETC_v2.csproj.AssemblyReference.cache
+I:\VS\DStage_ETC_v2\DStage_ETC_v2\DStage_ETC_v2\obj\Debug\DStage_ETC_v2.Form1.resources
+I:\VS\DStage_ETC_v2\DStage_ETC_v2\DStage_ETC_v2\obj\Debug\DStage_ETC_v2.Properties.Resources.resources
+I:\VS\DStage_ETC_v2\DStage_ETC_v2\DStage_ETC_v2\obj\Debug\DStage_ETC_v2.csproj.GenerateResource.cache
+I:\VS\DStage_ETC_v2\DStage_ETC_v2\DStage_ETC_v2\obj\Debug\DStage_ETC_v2.csproj.CoreCompileInputs.cache
+I:\VS\DStage_ETC_v2\DStage_ETC_v2\DStage_ETC_v2\obj\Debug\DStage_ETC_v2.exe
+I:\VS\DStage_ETC_v2\DStage_ETC_v2\DStage_ETC_v2\obj\Debug\DStage_ETC_v2.pdb

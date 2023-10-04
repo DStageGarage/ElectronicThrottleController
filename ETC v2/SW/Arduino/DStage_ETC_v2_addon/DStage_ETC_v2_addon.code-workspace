@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "Pompka_do",
+			"path": "../../Arduino/Pompka_do"
+		}
+	],
+	"settings": {}
+}

@@ -1,0 +1,6 @@
+# SW for ETC v2.x
+
+ETC v2.x allows for an optional Arduino Nano module. You will find the firmware for Arduino in "Arduino" folder and the aplication for controling it via PC in the "PC app" folder. 
+
+Last update 2023.10.04:
+- First beta version of both FW and app added. Please note that saving gas pedal map to a file as well as loading from a file is not yet available. Reading settings from Arduino to PC is slow and may be unstable when read multiple times so please pay attention if data makes sense. SW was not fully tested in real life conditions. Using Arduino functionality requires removing Z1 and adding Z2 jumper on the PCB. At the moment the Arduino code is fixed for "2000 RPM" which means it won't differentiate the map between RPMs and it's best to keep all columns in tyhe pam the same and set one of them to 2000 RPM. This can be easily incommented in the code and RPM signal can be used. For that user has to provide RPM signal from ECU to pin D3 of the Arduino Nano module - there is an extra pad on the v2.2 PCB next to that pin but no ARK connector. Signal cannot exceed 5V!

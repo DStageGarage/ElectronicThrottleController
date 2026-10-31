@@ -25,7 +25,11 @@ Besides the different input circuitry/calibration method compared to generation 
 
 The board form factor is larger than for version 1, but it will fit a popular aluminium casing, and a STL file for 3D printing is also provided. 
 
-Here's a quick video comparing v2.2 with v1.3 https://studio.youtube.com/video/byb1L_GXVq8/edit
+Here's a quick video comparing v2.2 with v1.3 https://youtu.be/byb1L_GXVq8?si=T0tCPdLfSo0LnHDD
+
+## HW generation 3
+> [!NOTE]
+>Third generation is in testing, I will add more info soon. It is SW based to allow for better control especially over larger throttles that were often problematic with v1 and v2. In case you need something like this now please let me know. 
 
 # Disclaimer: 
 This device is dedicated for stationary engines and vehicles driving on private closed
